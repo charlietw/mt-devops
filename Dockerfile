@@ -1,3 +1,1 @@
-FROM library/hello-world
-
-
+FROM nginxdemos/hello
